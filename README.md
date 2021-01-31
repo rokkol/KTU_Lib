@@ -1,5 +1,5 @@
 # SolidWorks PCB / Altium biblioteka
-KTU Elektros ir elektronikos fakulteto studentams skirta komponentų biblioteka.
+KTU Elektros ir elektronikos fakulteto studentų sukurtu komponentų biblioteka.
  
 [Templates](https://github.com/Aleksandrovas/KTU_Lib/tree/main/Templates) - schemų, komponentų sąrašo (BOM) šablonai
 
