@@ -7,8 +7,7 @@ KTU Elektros ir elektronikos fakulteto studentų sukurtu komponentų biblioteka.
 
 [PcbLib](https://github.com/Aleksandrovas/KTU_Lib/tree/main/PcbLib) - komponentų topologiniai brėžiniai (footprints)
 
-<br/>
-<br/>
+
 # Komponentų įvedimo taisyklės
 Visi komponentai esantys bibliotekoje privalo turėti šiuos sutartinius parametrus:<br/>
 • Manufacturer – gamintojas<br/>
