@@ -19,9 +19,10 @@ Visi komponentai esantys bibliotekoje privalo turėti šiuos sutartinius paramet
 • ComponentLink1URL - nuoroda į techninę dokumentaciją<br/>
 
 
-Priklausomai nuo komponento katerogijos įvedami papildomi parametrai<br/>
+Priklausomai nuo komponento katerogijos įvedami papildomi parametrai.<br/>
 
-Kondensatoriai:<br/>
+**Kondensatoriai**<br/>
+SMD MLCC, 100nF, 25V, 0603 [1608 metric], ±10%, X7R
 • Value
 • Voltage
 • Material
