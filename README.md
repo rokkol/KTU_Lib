@@ -23,20 +23,25 @@ Priklausomai nuo komponento katerogijos įvedami papildomi parametrai.<br/>
 **Kondensatoriai**<br/>
 • Value - kondensatoriaus talpa<br/>
 • Voltage - kondensatoriaus įtampa<br/>
-• Dielectric - kondensatoriaus dielektrikas<br/>
+• Dielectric - kondensatoriaus dielektrikas: C0G, NP0, X7R, Y5V, Z5U<br/>
 • Tolerance - kondensatoriaus tikslumas<br/>
 
 Skiltyje Symbol Reference - įvedamas tiklus gamintojo kodas.<br/>
-Skiltyje Description - įvedamas kondensatoriaus trumpas aprašas, pvz.<br/>
-SMD MLCC, 100nF, 25V, 0603 [1608 metric], ±10%, X7R
+Skiltyje Description - įvedamas trumpas kondensatoriaus aprašas, pavyzdžiui:<br/>
+CAP MLCC, 100nF, 25V, 0603 [1608 metric], ±10%, X7R<br/>
 
 
 
 **Rezistoriai**<br/>
 • Value - rezistoriaus varža<br/>
+• Resistor Type: - rezistoriaus tipas: Thick Film, Thin Film, Metal Film<br/>
 • Voltage - rezistoriaus įtampa<br/>
-• Material - rezistoriaus me<br/>
+• Power - rezistoriaus galia<br/>
 • Tolerance - rezistoriaus tikslumas<br/>
+• Temperature Coefficient - tempetatūrinis koeficientas
 
+Skiltyje Symbol Reference - įvedamas tiklus gamintojo kodas.<br/>
+Skiltyje Description - įvedamas trumpas rezistoriaus aprašas, pavyzdžiui:<br/>
+RES Thick Film, 100K, 150V, 0805 [2012 Metric], ±10%, 125mW<br/>
 
 
