@@ -13,6 +13,7 @@ Visi komponentai esantys bibliotekoje privalo turėti šiuos sutartinius paramet
 • Manufacturer – gamintojas<br/>
 • Manufacturer Part Number – gamintojo kodas<br/>
 • Part Type – komponento klasė\Tipas<br/>
+• Mounting – tvirtinimas: SMD arba THD <br/>
 • Package – komponento korpuso tipas<br/>
 • Supplier 1 – tiekėjas<br/>
 • Supplier Part Number 1 – tiekėjo užsakymo kodas<br/>
@@ -23,7 +24,7 @@ Visi komponentai esantys bibliotekoje privalo turėti šiuos sutartinius paramet
 Priklausomai nuo komponento katerogijos įvedami papildomi parametrai.<br/>
 
 **Kondensatoriai**<br/>
-• Part Type - įvedamas kondensatoriaus tipas, pvz. Capasitor\SMD arba Capasitor\THD<br/> 
+• Part Type - įvedamas kondensatoriaus tipas, pvz. MLCC, Tantalum arba Electrolytic<br/> 
 • Value - kondensatoriaus talpa<br/>
 • Voltage - kondensatoriaus įtampa<br/>
 • Dielectric - kondensatoriaus dielektrikas: C0G, NP0, X7R, Y5V, Z5U<br/>
@@ -36,9 +37,8 @@ CAP MLCC, 100nF, 25V, 0603 [1608 metric], ±10%, X7R<br/>
 
 
 **Rezistoriai**<br/>
-• Part Type - įvedamas rezistoriaus tipas, pvz. Resisotor\SMD arba Resisotor\THD<br/> 
+• Part Type - įvedamas rezistoriaus tipas, pvz. Thick Film, Thin Film arba Metal Film<br/> 
 • Value - rezistoriaus varža<br/>
-• Resistor Type - rezistoriaus tipas: Thick Film, Thin Film, Metal Film<br/>
 • Voltage - rezistoriaus įtampa<br/>
 • Power - rezistoriaus galia<br/>
 • Tolerance - rezistoriaus tikslumas<br/>
