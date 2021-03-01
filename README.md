@@ -12,7 +12,7 @@ KTU Elektros ir elektronikos fakulteto studentų sukurtu komponentų biblioteka.
 Visi komponentai esantys bibliotekoje privalo turėti šiuos sutartinius parametrus:<br/>
 • Manufacturer – gamintojas<br/>
 • Manufacturer Part Number – gamintojo kodas<br/>
-• Part Type – komponento klasė<br/>
+• Part Type – komponento klasė\Tipas<br/>
 • Package – komponento korpuso tipas<br/>
 • Supplier 1 – tiekėjas<br/>
 • Supplier Part Number 1 – tiekėjo užsakymo kodas<br/>
