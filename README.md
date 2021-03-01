@@ -13,6 +13,7 @@ Visi komponentai esantys bibliotekoje privalo turėti šiuos sutartinius paramet
 • Manufacturer – gamintojas<br/>
 • Manufacturer Part Number – gamintojo kodas<br/>
 • Part Type – komponento tipas savo klasėje<br/>
+• Value – komponento pavadinimas arba nominalas<br/>
 • Mounting – tvirtinimas: SMD arba THD <br/>
 • Package – komponento korpuso tipas<br/>
 • Supplier 1 – tiekėjas<br/>
