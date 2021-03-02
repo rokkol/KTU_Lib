@@ -34,7 +34,7 @@ Priklausomai nuo komponento kategorijos įvedami papildomi parametrai.<br/>
 
 Skiltyje Symbol Reference įvedamas tikslus gamintojo kodas.<br/>
 Skiltyje Description - įvedamas trumpas rezistoriaus aprašas, pavyzdžiui:<br/>
-RES 100K, ±10%, 125mW, 150V, 0805 [2012 Metric], Thick Film<br/>
+RES 100K, ±10%, 125mW, 150V, 0603 [1608 Metric], Thick Film<br/>
 
 **Kondensatoriai**<br/>
 • Part Type - kondensatoriaus tipas, pvz. MLCC, Tantalum arba Electrolytic<br/> 
@@ -45,5 +45,5 @@ RES 100K, ±10%, 125mW, 150V, 0805 [2012 Metric], Thick Film<br/>
 
 Skiltyje Symbol Reference įvedamas tikslus gamintojo kodas.<br/>
 Skiltyje Description - įvedamas trumpas kondensatoriaus aprašas, pavyzdžiui:<br/>
-CAP MLCC, 100nF, 25V, 0603 [1608 metric], ±10%, X7R<br/>
+CAP MLCC, 100nF, 25V, 0603 [1608 Metric], ±10%, X7R<br/>
 
