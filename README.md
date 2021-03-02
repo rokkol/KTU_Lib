@@ -25,7 +25,7 @@ Visi komponentai esantys bibliotekoje privalo turėti šiuos sutartinius paramet
 Priklausomai nuo komponento kategorijos įvedami papildomi parametrai.<br/>
 
 **Rezistoriai**<br/>
-• Part Type - įvedamas rezistoriaus tipas, pvz. Thick Film, Thin Film arba Metal Film<br/> 
+• Part Type - rezistoriaus tipas, pvz. Thick Film, Thin Film arba Metal Film<br/> 
 • Value - rezistoriaus varža<br/>
 • Voltage - rezistoriaus įtampa<br/>
 • Power - rezistoriaus galia<br/>
@@ -37,7 +37,7 @@ Skiltyje Description - įvedamas trumpas rezistoriaus aprašas, pavyzdžiui:<br/
 RES 100K, ±10%, 125mW, 150V, 0805 [2012 Metric], Thick Film<br/>
 
 **Kondensatoriai**<br/>
-• Part Type - įvedamas kondensatoriaus tipas, pvz. MLCC, Tantalum arba Electrolytic<br/> 
+• Part Type - kondensatoriaus tipas, pvz. MLCC, Tantalum arba Electrolytic<br/> 
 • Value - kondensatoriaus talpa<br/>
 • Voltage - kondensatoriaus įtampa<br/>
 • Dielectric - kondensatoriaus dielektrikas: C0G, NP0, X7R, Y5V, Z5U<br/>
