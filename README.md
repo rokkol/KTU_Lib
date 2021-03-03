@@ -22,31 +22,28 @@ Visi komponentai esantys bibliotekoje privalo turėti šiuos sutartinius paramet
 • ComponentLink1URL - nuoroda į techninę dokumentaciją<br/>
 
 
-Priklausomai nuo komponento katerogijos įvedami papildomi parametrai.<br/>
+Priklausomai nuo komponento kategorijos įvedami papildomi parametrai.<br/>
+
+**Rezistoriai**<br/>
+• Part Type - rezistoriaus tipas, pvz. Thick Film, Thin Film arba Metal Film<br/> 
+• Value - rezistoriaus varža<br/>
+• Voltage - rezistoriaus įtampa<br/>
+• Power - rezistoriaus galia<br/>
+• Tolerance - rezistoriaus tikslumas<br/>
+• Temperature Coefficient - temperatūrinis koeficientas
+
+Skiltyje Symbol Reference įvedamas tikslus gamintojo kodas.<br/>
+Skiltyje Description - įvedamas trumpas rezistoriaus aprašas, pavyzdžiui:<br/>
+RES 100K, ±10%, 125mW, 150V, 0603 [1608 Metric], Thick Film<br/>
 
 **Kondensatoriai**<br/>
-• Part Type - įvedamas kondensatoriaus tipas, pvz. MLCC, Tantalum arba Electrolytic<br/> 
+• Part Type - kondensatoriaus tipas, pvz. MLCC, Tantalum arba Electrolytic<br/> 
 • Value - kondensatoriaus talpa<br/>
 • Voltage - kondensatoriaus įtampa<br/>
 • Dielectric - kondensatoriaus dielektrikas: C0G, NP0, X7R, Y5V, Z5U<br/>
 • Tolerance - kondensatoriaus tikslumas<br/>
 
-Skiltyje Symbol Reference įvedamas tiklus gamintojo kodas.<br/>
+Skiltyje Symbol Reference įvedamas tikslus gamintojo kodas.<br/>
 Skiltyje Description - įvedamas trumpas kondensatoriaus aprašas, pavyzdžiui:<br/>
-CAP MLCC, 100nF, 25V, 0603 [1608 metric], ±10%, X7R<br/>
-
-
-
-**Rezistoriai**<br/>
-• Part Type - įvedamas rezistoriaus tipas, pvz. Thick Film, Thin Film arba Metal Film<br/> 
-• Value - rezistoriaus varža<br/>
-• Voltage - rezistoriaus įtampa<br/>
-• Power - rezistoriaus galia<br/>
-• Tolerance - rezistoriaus tikslumas<br/>
-• Temperature Coefficient - tempetatūrinis koeficientas
-
-Skiltyje Symbol Reference įvedamas tiklus gamintojo kodas.<br/>
-Skiltyje Description - įvedamas trumpas rezistoriaus aprašas, pavyzdžiui:<br/>
-RES 100K, ±10%, 125mW, 150V, 0805 [2012 Metric], Thick Film<br/>
-
+CAP MLCC, 100nF, 25V, 0603 [1608 Metric], ±10%, X7R<br/>
 
